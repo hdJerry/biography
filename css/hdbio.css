@@ -82,6 +82,7 @@ h3,h2,h4,h1{
 .bio{
     font-size: 15px;
     text-align:left;
+font-weight: bold;
 }
 .name{
     font-weight: bold;
@@ -97,4 +98,5 @@ h3,h2,h4,h1{
 .key{
     font-style: italic;
     color: #0b5fd8 !important;
+font-weight: bold;
 }
